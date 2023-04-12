@@ -1,0 +1,730 @@
+Opioid (Narcotic)
+Analgesics and
+Antagonists
+Walter C. Prozialeck, Ph.D.
+Department of Pharmacology
+CCOM/Midwestern University
+Downers Grove, IL 60515
+
+Overview of Drug Classes
+Strong Analgesics ( agonists)
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+*morphine
+alfentanil (Alfenta)
+*codeine
+*fentanyl (Sublimaze)
+*heroin
+*hydrocodone (Vicodin, Lortab, Zohydro ER)
+*hydromorphone (Dilaudid)
+levomethadyl acetate (Orlaam)
+levorphanol (Levo-Droman)
+*meperidine (Demerol)
+*methadone (Dolophine)
+*oxycodone (Percodan, Percocet, OxyContin)
+oxymorphone (Numorphan)
+propoxyphene (Darvon)
+sufentanil (Sufenta)
+
+Partial Agonists and Mixed
+Agonist/Antagonist Analgesics
+*pentazocine (Talwin)
+*buprenorphine (Buprenex, Subutrex,
+Suboxone)
+*butorphanol (Stadol)
+*tramadol (Ultram)
+*tapentadol (Nucynta)
+– OK for moderate pain, but not as effective as
+morphine for severe pain.
+
+Opioid Antagonists
+*naloxone (Narcan)
+nalmefene (Revex)
+*naltrexone (ReVia)
+*methylnaltrexone (Relistor)
+*alvimpoan (Entereg)
+
+Terminology
+In common usage, these terms are used
+interchangeably even though they,
+technically, have somewhat different
+meanings.
+– opiate - derived from opium
+– opioid - having properties similar to drugs
+derived from opium
+– narcotic – technically means "sleep inducing"
+but is commonly taken to mean "opioid"
+
+Chemistry and Structure
+Activity Relationships
+phenanthrene alkaloid
+phenyl-N-methyl piperidine is
+the essential moiety
+substitutions
+– methyl - at positions 3 or 6
+(codeine is 3 - 0 methyl
+morphine)
+– acetyl - at positions 3 or 6 (heroin
+is 3,6 - diacetyl morphine)
+– allyl or methylcyclopropyl - at
+position 17; confers antagonist
+activity
+
+Opioid Receptors
+ receptors are located primarily in the brainstem, spinal cord, and
+limbic areas and are thought to mediate supraspinal analgesia,
+some spinal analgesia, sedation, respiratory depression, euphoria
+and dependence.
+ receptors are located mainly in the brainstem and spinal cord,
+and to a lesser extent, the limbic system. They are thought to
+mediate some spinal analgesia, some supraspinal analgesia,
+miosis, sedation, and dysphoria.
+ receptors are located in the brainstem and limbic system, and
+Receptor Types
+mediate dysphoria and hallucinations
+ (mu)
+
+ (kappa)
+
+ (delta)
+
+Morphine
+
++++
+
++
+
++
+
+Hydromorphone
+
++++
+
++
+
++
+
+Pentazocine
+
++/-
+
+++
+
+?
+
+Nalbuphine
+
+-
+
+++
+
+?
+
+++
+
+-
+
+?
+
+-
+
+-
+
+-
+
+Drug
+
+Buprenorphine
+Naloxone
++
+?
+
+agonist activity
+antagonist activity
+not certain
+
+Morphine
+
+Methadone
+
+Naloxone
+
+Codeine
+
+Heroin
+
+Hydromorphone
+
+Meperidine
+Propoxyphene
+
+Nalorphine
+
+Pentazocine
+
+Morphine
+
+Active portion of
+morphine molecule
+
+Met or Leu eukephalin
+
+Pharmacologic Actions of Morphine
+Analgesia - as described
+Sedation and mental clouding
+– Note: Although morphine does produce sedation and
+cause drowsiness, the effects are qualitatively
+different from those produced by other CNS
+depressants (barbiturates, alcohol. etc..).
+Therapeutic doses of morphine produce a floating,
+dream-like state from which the patient normally can
+be aroused. However, in overdose situations,
+morphine and other opioids can cause the graded
+depression of cortical function: Mental Clouding and
+Sedation  Hypnosis or Stupor  Coma  Death
+
+Relief of anxiety and apprehension, particularly in
+individuals with pain.
+Euphoria (usually) - Dysphoria (occasionally) Subjectively, the effects of morphine are usually
+perceived as pleasant, particularly in individuals with
+pain. The drug causes analgesia and produces a
+floating dream-like state of tranquility. The individual
+may drift in and out of a pleasant sleep from which they
+can easily be aroused. Although the effects of morphine
+are generally perceived as pleasant, some individuals
+may experience unpleasant subjective effects
+(dysphoria). These individuals may experience fear,
+anxiety, hallucinations, and nausea. It is worth noting
+that these adverse reactions tend to be more common in
+females and in pain-free individuals who receive or take
+opioids. In certain species (particularly cats), morphine
+causes excitement and a rage reaction.
+
+Nausea
+– due to stimulation of the chemoreceptor
+trigger zone (CRTZ) in medulla, also may
+involve vestibular system.
+– more common in ambulatory patients than in
+recumbent patients
+– tolerance develops - with chronic use, the
+CRTZ may actually become de-sensitized
+
+Depression of respiration
+– major toxic effect - usual cause of death in opioid
+poisoning
+– decreased sensitivity to CO2 at chemoreceptors in
+medulla
+– use with caution in patients with impaired respiratory
+function
+Note: One beneficial effect of respiratory depression by
+morphine is applicable in the treatment of pulmonary
+edema with its frightening and unpleasant symptoms or
+air hunger. In this condition, the struggle to breath
+aggravates the pathophysiology of the edema. Morphine
+gives partial relief in acute pulmonary edema by
+alleviating the patient's conscious awareness of
+respiratory distress. After a moderately large dose of
+morphine, the patient will not struggle to breath. This actually
+improves the patient’s physiologic state and is beneficial. In
+addition, morphine causes peripheral vasodilation. This
+decreases both preload and afterload on the heart, which is
+also beneficial to the patient.
+
+Constriction of pupils
+– due to an action in the nucleus of Edinger Westfall
+– "Pin point" pupils is one of the tell-tale
+signs of opioid poisoning!
+– tolerance does not usually develop to this
+effect
+
+Antitussive effect
+– depression of cough control center in the medulla
+– opioids, particularly codeine and its analogs, are
+widely used as antitussives
+Note: Morphine and related opioids cause the release of
+histamine and may aggravate asthma or obstructive
+pulmonary disease. Opioids should be used only with
+extreme caution in such patients. They also can cause
+itching of the skin. H-1 histamine antagonists such as
+dephenhydramine (Benadryl) can alleviate this effect.
+
+Lowering of Seizure Threshold
+– Use with caution in seizure-prone patients
+
+Endocrine disturbances
+– decreased secretion of gonadotropins,
+corticosteroids and prolactin
+– menstrual disturbances in females and
+impotence in males are common in chronic
+opioid users
+
+Effects on smooth muscle - increased tone of
+circular smooth muscle, decrease in
+propulsive movements of longitudinal
+muscle
+– decreased intestinal motility - constipation is a
+common side effect
+– urine retention - often have to catheterize patients
+who received opioids
+– bronchoconstriction - may cause serious problems
+in asthmatics and patients with obstructive pulmonary
+disease.
+– increased biliary pressure due to constriction of the
+bile duct
+Note: Some, but not all of the effects of morphine on smooth
+muscle can be blocked by atropine or similar antimuscarinic
+drugs.
+
+Cardiovascular effects
+– postural (orthostatic) hypotension due to
+release of histamine and interference with
+hemostatic reflexes
+– cutaneous vasodilation - due to release of
+histamine, causes a warm flushing of the skin.
+Some patients may experience pruitis that
+can be alleviated by H-1 histamine
+antagonists.
+– increased CSF pressure
+due to buildup of CO2 and resulting cerebral
+vasodilation
+use only with caution in patients with head
+injuries
+
+Skeletal Muscle Rigidity
+– occurs at high doses and may cause
+problems when opioids are used as adjuncts
+for surgical anesthesia.
+
+Immunosuppression
+– seen especially with chronic usage
+– may complicate use of opioids in
+immunocompromised patients or may
+contribute to the pathogenesis of immune
+disorders such as AIDS.
+
+Pharmacokinetics of Morphine
+Route of Administration - traditionally IM or
+SC, although IV is widely used for in patients.
+Spinal routes although and oral preparations are
+becoming more widely used for severe pain. In
+addition, morphine and related agents such as
+heroin are sometimes "snorted" for abuse
+purposes.
+– Note: Morphine is considerably less potent orally
+because of significant "first pass" effect. (i.e. about
+75% of the dose is metabolized during its passage
+through the liver). Still, it can be given orally in high
+doses for the management of chronic, severe pain.
+
+Pharmacokinetics (Cont.)
+rapid onset after parenteral administration; maximal
+analgesic action within one hour of injection.
+duration of analgesia is approximately 4-6 hours.
+t½ = 2-3 hours: may be longer in elderly patients.
+metabolism in the liver (glucuronide formation)
+excretion - 90% in the urine primarily as metabolites in
+24 hours. 7-10% in the feces.
+morphine and other opioids readily cross the placental
+barrier and can affect the fetus resulting in respiratory
+depression or even drug dependence with chronic use.
+– Note: The standard therapeutic dose of morphine is 10 mg
+SC or IM. This is the dose to which all other analgesic
+drugs are compared.
+
+Major Drug Interactions
+additive effects with other CNS depressants (alcohol, barbiturates,
+benzodiazepines, antipsychotics, antidepressants, antihistamines)
+MAO inhibitors - reports of severe hyperpyrexia and coma,
+especially with meperidine (Demerol) but it can occur with all
+opioids.
+abuse with amphetamines and cocaine - mixture is called a
+"speedball".
+Some opioids are used in combinations with other analgesics (e.g.
+aspirin, acetaminophen or ibuprofen) - By acting through different
+mechanisms, the drugs in combination produce an enhanced
+analgesic effect.
+Certain antihistamines (e.g. hydroxyzine (Vistaril) can enhance the
+analgesic effects of opioids. A drug combination that was popular a
+few years ago, but which has fallen out of favor is meperidine plus
+hydroxyzine (Demerol + Vistaril)
+Tricyclic antidepressants can enhance the analgesic effects of
+opioids and are sometimes included in the regimens for the
+management of chronic, severe pain.
+
+Opioid Poisoning
+Symptoms - characteristic triad
+– CNS depression - stupor or coma
+– depressed depth and rate of respiration
+– pin point pupils
+Note: If the patient is severely hypoxic (i.e. very close to
+death) the pupils may be dilated.
+
+Treatment
+– Support respiration - be prepared to mechanically
+ventilate the patient. Be aware that administration of
+O2 may remove the hypoxic drive for respiration and
+cause apnea.
+– Administer a narcotic antagonist such as naloxone
+(NARCAN).
+
+Common Uses of Morphine and
+Related Drugs
+Moderate - severe pain
+Treatment of chronic pain
+Adjuncts to surgical anesthesia
+Antitussives
+Antidiarrheals
+Dyspnea of left heart failure and
+pulmonary edema
+Abuse
+
+*Morphine (sulfate salt)
+route of administration - absorbed from GI tract,
+but not as effective orally because of first pass
+metabolism; however, oral forms are available.
+Morphine can be given subcutaneously, IM or
+IV. In addition it is now widely used for various
+types of spinal analgesia.
+usual dose is 10 mg SC or IM; or 10-30 mg P.O.,
+although with severe, chronic pain, higher doses
+may be needed.
+used for more severe pain
+
+The ways in which morphine and related
+opioids are used have changed
+dramatically in the past few years. Three
+of the most important developments are:
+– infusion and autoinjector systems
+– PCA (patient controlled analgesia)
+– spinal analgesia
+
+*Codeine (phosphate or sulfate salt)
+route of administration - orally effective
+dose - 1/12 the potency of morphine; common
+doses are 30-60 mg P.O.
+codeine molecule is only a weak opioid agonist,
+but in most patients codeine is metabolized to
+morphine; genetic differences in metabolism
+may explain individual differences in sensitivity
+to codeine
+uses
+– analgesic for mild-moderate pain
+– antitussive
+
+*Hydromorphone (Dilaudid, Palladone) similar to morphine but more potent
+*Oxycodone (Roxicodone, Percodan,
+OxyContin) - similar to both morphine and
+codeine, but used orally (usually in combinations
+with acetaminophen) for mild-moderate pain.
+OxyContin is a sustained release oral
+preparation for the management of severe
+chronic pain.
+*Hydrocodone (Vicodin, Norco, and many
+others) - similar both to morphine and codeine;
+used orally for mild-moderate pain and as an
+antitussive; is currently one of the most widely
+prescribed opioids. On 10/8/14, it was
+reclassified as C-2 from C-3.
+
+*Meperidine (Demerol)
+synthetic drug
+route of administration - oral and parenteral
+1/10 the potency of morphine
+reputed to have weaker effects on smooth muscle than
+morphine - less constipation and urine retention,
+although the evidence to support this is weak.
+has been used for moderate to severe pain
+has been commonly used in obstetrics - may cause less
+respiratory depression in the newborn than morphine
+relatively short acting 1-3 hours; not appropriate for
+chronic pain because of the buildup of an active
+metabolite (normeperidine) that can cause seizures.
+falling into disfavor in many circles.
+
+*Heroin (diacetylmorphine)
+more potent and more euphoric than
+morphine; duration of action about 4-6
+hours.
+available for medical use in some
+countries, but not in the US
+abuse
+commonly taken by injection, snorting or
+smoking
+
+*Methadone (Dolophine)
+less euphoric and longer duration of action (1224 hours) than heroin (4-6 hours) or morphine
+(4-6 hours)
+used as an analgesic and in treating opioid
+addiction
+dosing can be tricky and needs to be done
+carefully, with close monitoring of the patient.
+– Note: When used acutely as an analgesic,
+methadone has a duration of action of 4-6 hours.
+However, when used chronically (as in methadone
+maintenance for the treatment of opioid dependence,
+or for the management of chronic pain), it has a
+duration of action of 12-24 hours.
+
+*Methadone
+When used for opioid addiction, it can only
+be dispensed through licensed clinics.
+Good analgesic for severe pain.
+Long –acting, orally-effective, little
+euphoria
+Stigma associated with its use in the
+treatment of heroin addiction.
+Dosing can be difficult and needs to be
+done carefully.
+
+*Fentanyl (Sublimaze) - very potent mu agonist
+(about 100 x more potent than morphine) - given
+parenterally to supplement surgical anesthesia.
+A transdermal preparation (Duragesic) is
+available for the management of chronic pain. A
+combination preparation containing fentanyl
+plus droperidol (Innovar) can induce a state
+called neuroleptic analgesia. In this state,
+various diagnostic (e.g. endoscopies, etc..) or
+minor surgical procedures may be carried out
+even though the patient might not completely
+lose consciousness. Administering nitrous oxide
+in conjunction with Innovar will produce a state
+called neuroleptic anesthesia.
+Sufentanil (Sufenta) and Alfentanil (Alfenta) similar to Fentanyl - used I.V. as adjuncts for
+surgical anesthesia.
+
+*Opioid Combination Preparations - Most contain
+either codeine, hydrocodone, oxycodone, or
+propoxyphene in combination with either aspirin,
+acetaminophen or ibuprofen. Note that when these
+combination products are used at very high doses
+needed to control severe pain, the patient may be
+exposed to potentially toxic doses of acetaminophen,
+aspirin or ibuprofen. Some examples are:
+– Codeine/Acetaminophen (Tylenol with Codeine and generic
+preparations.
+– Codeine/Aspirin (Empirin and generics)
+– Hydrocodone/Acetaminophen (Vicodin, Lortab, Norco, others)
+– Hydrocodone/Ibuprofen (Vicoprofen)
+– Oxycodone/Acetaminophen (Percocet, Percodan, Tylox, and
+others)
+
+Problems with Opioid Combination
+Products for Severe Pain
+Vicodin = 5 mg hydrocodone + 500 mg
+acetaminophen (Do not exceed 8/day)
+10 mg morphine SC = 20 mg
+hydrocordone PO
+20 mg hydrocodone = 4 Vicodin
+4 Vicodin = 2 g acetaminophen
+4-6 x per day = 8-10 g of acetaminophen!
+
+Mixed Agonist-Antagonists
+*Pentazocine (Talwin; Talwin NX)
+– agonist effects are dominant - acts as an agonist at  (kappa)
+receptors, but only as a partial agonist at  (mu) receptors; it acts
+as a  antagonist at high doses.
+– less effective than morphine for severe pain
+– sedation and respiratory depression are less than with morphine
+– CNS stimulation and hallucinations are more common than with
+morphine
+– with chronic use, the potential for physical dependence is less
+than morphine, but still significant
+– can precipitate withdrawal syndrome in opioid addicts
+– Talwin Nx is a preparation that contains petazocine and
+naloxone. The latter is included to reduce the potential for IV
+abuse.
+
+GI Tract
+
+Systemic
+Circ.
+Liver
+
+OP
+N
+
+*Buprenorphine (Buprenex, Subutrex, Suboxone,
+Butrans))
+– acts as a partial agonist at -receptors and possibly -receptors.
+– Although its analgesic effects may be slightly less than that of
+morphine, its abuse potential is reported to be much lower.
+– It has been reported to reduce drug craving in heroin addicts and
+is being used in the treatment of heroin addiction. Suboxone is
+a new combination product containing buprenorphine plus
+nalaxone designed for sublingual use. When taken as directed,
+the naloxone does not reach a therapeutic blood level and the
+buprenorphine can produce its effects. However, if the user tries
+to inject the drug to achieve a high, the naloxone will block the
+effects of the buprenorphine.
+– Although it is usually given by injection, it is also effective when
+administered sublingually, intranasally, or transdermally.
+– Buprenorphine is the primary agent used for the so-called “office
+based” treatment of opioid addiction.
+
+*Tramadol (Ultram)
+newer drug for use in mild-moderate pain.
+It supposedly is a weak mu agonist. In addition, it
+inhibits the synaptic reuptake of norepinephrine and
+serotonin, much like the tricyclic antidepressants.
+It supposedly produces good analgesia, with only mild
+side effects. In general, the side effects resemble those
+of other opioids (dizziness, sedation, nausea,
+constipation).
+The manufacturer has claimed that the drug has a very
+low abuse and addiction potential. However, there are a
+significant number of reports indicating that the drug has
+opioid-like abuse potential.
+
+Drug Abuse and Dependence
+Tramadol may induce psychic and physical dependence of
+the morphine-type (-opioid). (See WARNINGS).
+Dependence and abuse, including drug-seeking behavior
+and taking illicit actions to obtain the drug are not limited to
+those patients with a prior history of opioid dependence.
+The risk in patients with substance abuse has been
+observed to be higher. Tramadol is associated with craving
+and tolerance development. Withdrawal symptoms may
+occur if tramadol is discontinued abruptly. These
+symptoms may include: anxiety, sweating, insomnia,
+rigors, pain, nausea, tremors, diarrhea, upper respiratory
+symptons, piloerection and rarely hallucinations. Clinical
+experience suggests that withdrawal symptoms may be
+relieved by reinstitution of opioid therapy followed by a
+gradual, tapered dose reduction of the medication
+combined with symptomatic support.
+
+Tapentadol (Nucynta)
+Newer drug that is similar to tramadol,
+except that it has stronger agonist activity
+at mu receptors. It also inhibits reupyake
+of NE and 5-HT.
+More effective for pain than tramadol, but
+also greater abuse potential.
+Classified as Shedule II drug.
+
+*Naloxone (Narcan) - drug of choice for opioid
+poisoning, can reverse the respiratory
+depressant effects of opioids
+– not effective orally, because of first pass metabolism,
+must be given parenterally
+– sometimes included in combination with oral narcotic
+analgesics (eg. Talwin NX) to prevent abuse (i.e.
+injection of the drug)
+– relatively short duration of action (i.e. only about 1-2
+hours)
+– can precipitate withdrawal in addicts
+– has been tried for a variety of conditions (eg.
+prevention of post traumatic neuronal injury, shock.)
+
+*Naltrexone (Trexan, ReVia)
+orally effective, long acting antagonist (24 hours)
+used in "immunizing" addicts (ie. preventing the high
+produced by opioid agonists)
+risk of hepatotoxicity is a serious drawback
+its effectiveness in the long-term treatment of opioid
+dependence is not clear
+patient compliance is a major problem
+Keep in mid that an opioid addict must first be detoxified
+(ie. brought through withdrawal) before naltrexone
+therapy can be initiated.
+It has recently been shown to decrease the craving for
+alcohol in alcoholics. It is now approved for use in the
+treatment of alcoholism.
+
+*Methylnaltrexone (Relistor)
+Quaternary analog of naloxone recently
+approved for the treatment/prevention of
+opioid-induced constipation.
+Must be given parenterally, usually SC
+Only appropriate for serious constipation
+resulting from use higher doses of opiods
+for more severe pain.
+
+Opioid Dependence and Addiction
+Physical Dependence
+– tolerance - develops to some effects more than others. For
+example, there can be a high degree of tolerance to the
+analgesic, euphoric and sedative effects of opioids whereas
+there is usually little tolerance to opioid-induced miosis or
+constipation.
+– withdrawal syndrome
+
+Characteristics of the Acute Withdrawal Syndrome
+(opposite of drug effects)
+–
+–
+–
+–
+–
+–
+–
+
+craving for drug
+anxiety, insomnia
+dilation of pupils
+severe GI hypermotility
+hypertension and tachycardia
+"goose flesh"
+yawning and sweating
+
+Duration and Intensity of Acute
+Withdrawal
+– short acting drug (e.g. heroin) - intense
+symptoms, short duration (2-3 days)
+– long acting drug (e.g. methadone) - moderate
+symptoms, long duration (4-7 days)
+– Note: The acute withdrawal phase is often
+followed by prolonged syndrome consisting of
+mild anxiety irritability, sleep disturbances and
+autonomic excitability than may last for
+several weeks - months.
+
+Treatment of Dependence
+– "cold turkey"
+– weaning patient off the drug
+– methadone
+– substitution - wean patient off drug
+– maintenance - maintain patient on drug
+– buprenorphine is also being used
+– naltrexone (Trexan) - long acting opioid
+antagonist
+– clonidine (Catapress) - will suppress some
+withdrawal symptoms
+
+Dependence in a Medical Setting vs.
+Dependence in a Street Setting
+Keep in mind that opioid dependence in a medical setting is
+markedly different from opioid addiction in a street setting. In a
+medical setting, patients may become addicted while chronically
+receiving opioids for medically valid reasons. Under such
+conditions, they receive known doses of pure drug under strictly
+controlled conditions. Usually, the patient can be weaned off the
+drug with minimal discomfort and little potential for continuing
+addiction. By contrast, in a street setting, the drug abuser actively
+seeks an illegal drug for its mind altering effects. Often the pattern
+of abuse involves the taking of unknown doses of impure drugs
+under very unsanitary conditions. In addition, the addict must often
+resort to crime or prostitution to support their habit.
+– health hazards associated with the street use of narcotics
+hepatitis
+miscellaneous infections
+AIDS
+
+– socioeconomic aspects of the problem
+
+
